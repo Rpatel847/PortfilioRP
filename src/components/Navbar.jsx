@@ -21,7 +21,7 @@ const Navbar = () => {
         </a>
        
         <a href="https://drive.google.com/file/d/1fP-q7cZg6-E0mtAghuNuFhUQvBSBw-uI/view?usp=sharing">
-        <h1 className="text-purple-300 border-b">My Resume</h1>
+        <h1 className="text-purple-300 border-b">My Resumee</h1>
 
         </a>
       </div>
